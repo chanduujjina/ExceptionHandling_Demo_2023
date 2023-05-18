@@ -8,12 +8,12 @@ public class RTExceptionHandlingDemo3 {
 		try {
 		value.toString();
 		int result = 1/0;
-		}catch(ArithmeticException aex) {
-			aex.printStackTrace();
+		}catch(ArithmeticException  | NullPointerException gex) {
+			gex.printStackTrace();
 		}
-        catch(NullPointerException nex) {
-			nex.printStackTrace();
-		}
+		/*
+		 * catch(NullPointerException nex) { nex.printStackTrace(); }
+		 */
 		System.out.println("rest of the code");
 		
 		

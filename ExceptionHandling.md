@@ -33,3 +33,8 @@ By writing the system.exit method inside try/catch block can stop the execution 
 1.Can write Try with  with final </br>
 2.Cannot write catch without try </br>
 
+<h4>Exception Handling with Method Overriding in Java</h4>
+<h4>If the superclass method does not declare an exception</h4>
+<ul>
+<li>If the superclass method does not declare an exception, subclass overridden method cannot declare the checked exception but it can declare unchecked exception</li>
+</ul>
