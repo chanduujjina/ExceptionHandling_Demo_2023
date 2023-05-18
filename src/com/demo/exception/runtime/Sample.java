@@ -1,16 +1,10 @@
-package com.demo.exceptionHandling.runtime;
+package com.demo.exception.runtime;
 
-public class Activity {
+public class Sample {
 	
 	@Override
 	public String toString() {
-		return "Activity [id=" + id + ", value=" + value + "]";
-	}
-
-	public Activity(int id, String value) {
-		super();
-		this.id = id;
-		this.value = value;
+		return "Sample [id=" + id + ", value=" + value + "]";
 	}
 
 	public int getId() {

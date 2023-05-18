@@ -1,4 +1,4 @@
-package com.demo.exceptionHandling.runtime;
+package com.demo.exception.runtime;
 
 public class RunTimeExceptionDemo3 {
 
