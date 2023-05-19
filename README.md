@@ -54,4 +54,9 @@
  <h4>5.Try with Resources</h4>
  
  <h4>Is java support pass by value or pass reference</h4>
+ <button type="button"
+         onclick="document.getElementById('demo').innerHTML = <h4>It will support pass by value</h4>">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
  
