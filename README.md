@@ -42,6 +42,8 @@
 <a href="ExceptionHandling.md">try ,catch & finally</a>  </br>
 
 <h4>User-Defined Exceptions</h4>
+<h4>Regular Expression</h4>
+<a href="RegularExpression.md">Click here for Regular Expression</a>  </br>
 
 <h4>5.Advantages of Exception Handling</h4>
 <ul>
@@ -53,18 +55,4 @@
  
  <h4>5.Try with Resources</h4>
  
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First JavaScript</h1>
-
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p>
-
-</body>
-</html> 
-
+  
