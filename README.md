@@ -7,6 +7,9 @@
 <h4>3.Exception Hierarchy</h4> </br>
 <img src="src\images\Exception-Hierarchy.png" alt="Trulli" width="500" height="333">
 
+<h4>3.Exception Hierarchy Detailed view</h4> </br>
+<img src="src\images\exception_hierarchy_in_Java_v1.png" alt="Trulli" width="500" height="333">
+
 <h4>4.Types of Exceptions</h4>
 
 <img src="src\images\ExceptionTypes.jpg" alt="Trulli" width="500" height="333">
@@ -15,6 +18,24 @@
 <ul>
   <li>Checked Exception</li>
   <li>Unchecked Exception</li>
+</ul>
+
+<h4>Unchecked Exceptions or Runtime Exceptions</h4>
+<ul>
+  <li>Arithematic Exception</li>
+  <li>Classcast Exception</li>
+  <li>Nullpointer Exception</li>
+  <li>ArrayIndexOutofBound Exception</li>
+  <li>NumberFormat Exception</li>
+</ul>
+
+<h4>Checked Exceptions or CompileTime Exceptions</h4>
+<ul>
+  <li>ClassNotFoundException</li>
+  <li>IOException</li>
+  <li>FileNotFoundException</li>
+  <li>InstantiationException</li>
+  <li>SQL Exception</li>
 </ul>
 
 <h4>Handling Exceptions by using below Keywords</h4>
@@ -29,3 +50,6 @@
   <li>Propagation of Errors</li>
   <li>Meaningful Error Reporting</li>
  </ul>
+ 
+ <h4>5.Try with Resources</h4>
+ 
