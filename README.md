@@ -53,6 +53,11 @@
  
  <h4>5.Try with Resources</h4>
  
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
