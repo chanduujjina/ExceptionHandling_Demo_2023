@@ -30,7 +30,7 @@ By writing the system.exit method inside try/catch block can stop the execution 
 
 <h4>Possible cases of try ,catch and finally block
 <ol>
-  <li>Can write Try   with final</li>
+  <li>Can write try with out catch but with final</li>
   <li>Cannot write catch without try</li>
   </ol>
 
