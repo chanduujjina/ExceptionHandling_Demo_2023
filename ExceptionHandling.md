@@ -28,12 +28,12 @@ Throws can propagate back the error to calling function.This needs to add at the
 <h4>Cases to skip finally block?</h4>
 By writing the system.exit method inside try/catch block can stop the execution of finally block
 
-<h4>Possible cases of try ,catch and finally block</h4>
 
-<ul>
-<li>Can write Try   with final</li>
-<li>Cannot write catch without try</li>
-</ul>
+<h4>Possible cases of try ,catch and finally block
+<ol>
+  <li>Can write try with out catch but with final</li>
+  <li>Cannot write catch without try</li>
+  </ol>
 
 
 <h4>Exception Handling with Method Overriding in Java</h4>
@@ -47,4 +47,4 @@ By writing the system.exit method inside try/catch block can stop the execution 
 <li>If the superclass method declares an exception, subclass overridden method can declare same, subclass exception or no exception but cannot declare parent exception.</li>
 </ul>
 
-<h4>Regular Expression</h4>
+
