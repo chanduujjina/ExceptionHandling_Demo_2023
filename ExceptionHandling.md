@@ -28,10 +28,13 @@ Throws can propagate back the error to calling function.This needs to add at the
 <h4>Cases to skip finally block?</h4>
 By writing the system.exit method inside try/catch block can stop the execution of finally block
 
-<h4>Possible cases of try ,catch and finally block
+<h4>Possible cases of try ,catch and finally block</h4>
 
-1.Can write Try   with final </br>
-2.Cannot write catch without try </br>
+<ul>
+<li>Can write Try   with final</li>
+<li>Cannot write catch without try</li>
+</ul>
+
 
 <h4>Exception Handling with Method Overriding in Java</h4>
 <h4>If the superclass method does not declare an exception</h4>
