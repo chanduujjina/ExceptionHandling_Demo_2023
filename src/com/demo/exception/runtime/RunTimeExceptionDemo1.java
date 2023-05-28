@@ -6,7 +6,7 @@ public class RunTimeExceptionDemo1 {
 		
 		RunTimeExceptionDemo1 runTimeExceptionDemo1 = new RunTimeExceptionDemo1();
 		
-		//postive case
+		//positive case
 		int case1 = runTimeExceptionDemo1.getValue(10, 5);
 		System.out.println(case1);
 		
